@@ -10,7 +10,7 @@ code文件夹下的Quicksort.ts，定义数组arr= [1, 5, 7, 9, 6, 44, 100, 77, 
 
 ### 3. 以排序二叉树为基础，实现 TreeMap，使增删改查节点的时间复杂度为O(logn)
 
-code文件夹下的BinaryTree.ts，代码可直接运行
+code文件夹下的TreeMap.ts.ts，代码可直接运行
 
 ### 4. 单例模式实现示例
 
