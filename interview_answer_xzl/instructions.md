@@ -8,7 +8,11 @@ code文件夹下的Crawler.ts，代码可直接运行
 
 code文件夹下的Quicksort.ts，定义数组arr= [1, 5, 7, 9, 6, 44, 100, 77, 150] ,代码可直接运行
 
-### 3. 实现一个二叉树，使插入、查询、删除的时间复杂度为O(logn)
+### 3. 以排序二叉树为基础，实现 TreeMap，使增删改查节点的时间复杂度为O(logn)
 
 code文件夹下的BinaryTree.ts，代码可直接运行
+
+### 4. 单例模式实现示例
+
+code文件夹下的Singleton.ts，Singleton_hungry为饿汉模式实现的单例模式，Singleton_lazy为懒汉模式实现的单例模式，代码可直接运行
 
